@@ -31,6 +31,20 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ![Screenshot (230)](https://github.com/user-attachments/assets/726bbf5f-a70c-4dbe-8d83-46d44ad4e103)
 
+![Screenshot (229)](https://github.com/user-attachments/assets/fb253bc4-11b5-47c7-92c4-4d2296935ac2)
+
+
+![Screenshot (225)](https://github.com/user-attachments/assets/76a12ec2-f349-4890-aaf4-63bbcacbf6ff)
+
+
+![Screenshot (226)](https://github.com/user-attachments/assets/d82ca677-b8b7-4b13-840a-0129f72e4d8a)
+
+
+![Screenshot (227)](https://github.com/user-attachments/assets/592b5af3-7bb9-47a2-9d68-19a9715b3be4)
+
+
+![Screenshot (228)](https://github.com/user-attachments/assets/ce113bb8-ec90-46d5-b98e-5e4b0a78b1a1)
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
