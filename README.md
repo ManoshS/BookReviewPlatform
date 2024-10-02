@@ -26,7 +26,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Images
-<!-- GETTING STARTED -->
+`![Screenshot (231)](https://github.com/user-attachments/assets/22699029-37bb-47cc-84af-2fca8ef4a22a)
 
 ## Getting Started
 
