@@ -45,7 +45,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ![Screenshot (228)](https://github.com/user-attachments/assets/ce113bb8-ec90-46d5-b98e-5e4b0a78b1a1)
 
-There are othere pages also...
+There are other pages also...
 
 ## Getting Started
 
