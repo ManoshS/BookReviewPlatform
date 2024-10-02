@@ -40,7 +40,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/ManoshS/BookReviewPlatform.git
    ```
 2. Install NPM packages
    ```sh
