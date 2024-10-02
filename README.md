@@ -88,5 +88,4 @@ Project Link: [https://github.com/ManoshS/BookReviewPlatform](https://github.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+## Thank You 
